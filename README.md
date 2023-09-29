@@ -1,9 +1,5 @@
-poetry install             # 의존성 설치
-poetry shell               # 가상환경에 진입
-python manage.py runserver # 서버 실행
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={sogogi123})](https://solved.ac/{sogogi123})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={gurdlekwkd})](https://solved.ac/{sogogi123})
 <!--
 **sogogi123/sogogi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
